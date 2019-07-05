@@ -3,4 +3,4 @@
 ![avatar](https://raw.githubusercontent.com/forthehome/forthehome/master/public/home.JPG)
 
 # 2015版业主公约
-[2015版业主公约（点击查看）](https://github.com/forthehome/forthehome/blob/master/public/document/20150411%E4%B8%9A%E4%B8%BB%E5%A4%A7%E4%BC%9A%E5%85%AC%E7%BA%A6.pdf）
+[2015版业主公约（点击查看）](https://github.com/forthehome/forthehome/blob/master/public/document/20150411业主大会公约.pdf）
